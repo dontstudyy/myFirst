@@ -1,0 +1,20 @@
+https://dev-yakuza.posstree.com/ko/react-native/install-on-windows/
+
+
+- 프로젝트 생성
+	react-native init ProjectName
+
+- 실행 (cmd에서 프로젝트 폴더로 이동 후)
+	cd C:\Users\TongYoon\reactFolder\SampleNavigation1
+	npm run android
+
+- 실제 디바이스에서 테스트 (VS Code 터미널에서 타이핑해야 됨)
+	react-native run-android
+
+- 연결된 디바이스 or AVD 확인
+	adb devices
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+	cd D:\TongYoon\Program Develop\reactF\SampleNavigation1
+	cd C:\Users\TongYoon\reactFolder\SampleNavigation11
+

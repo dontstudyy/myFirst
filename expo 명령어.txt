@@ -1,0 +1,4 @@
+ - 폴더 생성
+	expo init expoTest
+ -  실행
+	npm start
